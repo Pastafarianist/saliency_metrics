@@ -15,7 +15,7 @@ Metrics implemented are:
 7. CC
 8. KL divergence
 
-The two maps to be compared are `gt` and `s_map`. Each method also discretizes (if needed) and normalizes the maps. Details about each of the methods can be found in the MIT Saliency Benchmark paper "What do different evaluation metrics tell us about saliency models?".
+The two maps to be compared are `fixation_map` and `saliency_map`. Each method also discretizes (if needed) and normalizes the maps. Details about each of the methods can be found in the MIT Saliency Benchmark paper "What do different evaluation metrics tell us about saliency models?".
 
 ## Citations
 
